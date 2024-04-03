@@ -7,7 +7,7 @@ In this challenge you will be creating 3 circles and moving them around the page
 
 2. Create another div and give it the same styling. Make the circle appear 100px to the left of the page on its own line.
 
-3. Create another div and give it the same stlying. Using keyframes, animate the circle moving across the page.
+3. Create another div and give it the same styling. Using keyframes, animate the circle moving across the page.
 
 ## Submission
 
